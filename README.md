@@ -1,1 +1,1 @@
-# KTDL_Lab02
+Lab02 Môn khai thác dữ liệu và ứng dụng
